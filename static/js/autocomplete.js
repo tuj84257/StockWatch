@@ -2,7 +2,7 @@ const autoCompleteJS = new autoComplete({
     data: {
         src: async () => {
             // API key token
-            const token = "TP7HGHTU6XIO8QWN";
+            const token = "YOUR_API_KEY_HERE";
             // User search query
             const query = document.querySelector("#search-box").value;
             // Fetch External Data Source
