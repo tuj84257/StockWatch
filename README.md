@@ -18,5 +18,5 @@ Lastly, the stock price chart is generated with the help of the [Chart.js](https
 
 
 
-<p style="text-align: center;"><img src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" width="80"> <img src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="80"> <img src="https://avatars0.githubusercontent.com/u/10342521?s=280&v=4" width="80"> <img src="https://raw.githubusercontent.com/TarekRaafat/autoComplete.js/HEAD/docs/img/autoComplete.js.png" width="80"></p>
+<p align="center"><img src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" width="80"> <img src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="80"> <img src="https://avatars0.githubusercontent.com/u/10342521?s=280&v=4" width="80"> <img src="https://raw.githubusercontent.com/TarekRaafat/autoComplete.js/HEAD/docs/img/autoComplete.js.png" width="80"></p>
 
