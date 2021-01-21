@@ -1,0 +1,156 @@
+html,body {
+  height: 100%;
+}
+
+.white{
+    color: white;
+}
+
+.text-success{
+    color: #20CF9B !important;
+}
+
+.bg-success{
+    background-color: #20CF9B !important;
+}
+
+.border-success{
+    border-color: #20CF9B !important;
+}
+
+/******* LEFT COLUMN ******/
+
+/* Title */
+#title{
+    margin-top: 38vh;
+}
+
+/* Search box */
+#search-box{
+    border-color: black;
+}
+
+.icofont-search-stock{
+    font-size: 20px;
+}
+
+/* Autocomplete */
+.autoComplete_highlighted{
+    color: #20CF9B !important;
+}
+
+.autoComplete_selected, .autoComplete_result:hover{
+    background-color: #f1f1f1 !important;
+}
+
+#autoComplete_list{
+    border-radius: 6px !important;
+}
+
+/* Bottom link */
+#linkedin-link:hover{
+    color: white;
+}
+
+/******* RIGHT COLUMN ******/
+
+/* The opening paragraph */
+#filler-paragraph{
+    margin-top: 45vh;
+}
+
+/* The spinner */
+.spinner-border{
+    margin-top: 40vh;
+    width: 6rem;
+    height: 6rem;
+}
+
+/* The main heading */
+#past-month{
+    font-size: 1rem;
+}
+
+#company-name{
+    margin-top: -6px;
+}
+
+/* Closing price data */
+#closing-price{
+    margin-left: 24px;
+}
+
+#the-dollar{
+    font-size: 1rem;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+#difference{
+    font-size: 1rem;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+
+#fetch-date{
+    font-size: 0.8rem;
+    color: white;
+    margin-left: 24px;
+    margin-top: -6px;
+}
+
+#yearly-range{
+    margin-right: 24px;
+}
+
+/* The chart */
+.chart-container{
+    width: 60vw;
+    height: 26vh;
+    margin-left: 3vw;
+}
+
+/* Additional data */
+#additional-data{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+#additional-data-row{
+    font-size: 1rem;
+}
+
+.the-dollar{
+    font-size: 0.9rem;
+}
+
+/* The news section */
+.news-cards{
+    overflow: auto;
+    height: 36vh;
+}
+
+.card:hover{
+    background-color: #6c757d !important;
+}
+
+.card-title{
+    font-size: 1rem;
+}
+
+.card-subtitle{
+    font-size: 0.9rem;
+}
+
+.card-text{
+    font-size: 0.85rem;
+}
+
+.card-link{
+    font-size: 0.8rem;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
