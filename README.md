@@ -4,7 +4,7 @@
 
 
 
-<img style="box-shadow: 4px 4px 24px; border: 0;" src="Capture.png">
+<img style="box-shadow: 4px 4px 24px; border: 0;" src="Capture.PNG">
 
 
 
